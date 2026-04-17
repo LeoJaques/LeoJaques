@@ -5,7 +5,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)
 ![Backend](https://img.shields.io/badge/Backend-APIs%20%26%20Services-black)
-![Status](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Projetos-success)
 
 🚀 Desenvolvedor Python especializado em **automação de processos, análise de dados e desenvolvimento backend**.  
 Crio soluções que **economizam tempo, reduzem erros e aumentam produtividade**.
